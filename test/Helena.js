@@ -1,1 +1,0 @@
-//ahoj tady je muj kod
